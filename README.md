@@ -1,2 +1,4 @@
 # amar-demo
-First Repository
+This is myFirst Repository
+<br>
+Author-Amarnath
